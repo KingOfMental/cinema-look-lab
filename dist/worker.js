@@ -1,0 +1,3 @@
+importScripts('engine.js');let original=null,revision=0;const sizes=new Map();
+self.onmessage=e=>{const m=e.data;if(m.type==='source'){original={data:new Uint8ClampedArray(m.buffer),width:m.width,height:m.height};revision=m.revision;sizes.clear();return}if(m.type!=='render'||!original||m.revision!==revision)return;
+try{const start=performance.now();let image=sizes.get(m.edge);if(!image){image=CinemaEngine.resize(original,m.edge);sizes.set(m.edge,image)}const out=CinemaEngine.render(image,m.values,m.curves,m.fx);self.postMessage({type:'result',id:m.id,revision,width:out.width,height:out.height,buffer:out.data.buffer,ms:performance.now()-start},[out.data.buffer])}catch(error){self.postMessage({type:'error',id:m.id,message:String(error)})}};

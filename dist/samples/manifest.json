@@ -1,0 +1,485 @@
+[
+  {
+    "look": "Classic Teal & Orange",
+    "file": "samples/look-0.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: woman in white shirt beside blue sea and concrete seaside promenade. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-0.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: woman in white shirt beside blue sea and concrete seaside promenade. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-0-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: sunlit man in orange jacket on a blue ferry deck with shaded metal rails. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-0-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: woman in warm beige coat in modern concrete plaza at dusk with blue sky. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Kolder-inspired Teal & Orange",
+    "file": "samples/look-1.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: traveler overlooking turquoise tropical lagoon and orange rock cliffs. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-1.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: traveler overlooking turquoise tropical lagoon and orange rock cliffs. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-1-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: surfer carrying orange surfboard beside blue ocean cliffs. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-1-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: backpacker on rust red desert rocks with distant turquoise reservoir. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Bleach Bypass",
+    "file": "samples/look-2.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: rainy industrial alley with person in gray coat. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-2.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: rainy industrial alley with person in gray coat. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-2-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: rugged fisherman at a gray industrial harbor under cloudy sky. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-2-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: old concrete stairwell with hard window light and person in dark clothes. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Warm Print",
+    "file": "samples/look-3.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: sunlit old cinema facade and cafe. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-3.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: sunlit old cinema facade and cafe. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-3-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: small sunlit bakery interior with warm wood and cool window shadows. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-3-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: city tram and warm brick facades in late afternoon light. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Classic Chrome-inspired",
+    "file": "samples/look-4.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: quiet urban street with colorful storefronts and pedestrian. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-4.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: quiet urban street with colorful storefronts and pedestrian. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-4-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: quiet flower market with muted colorful buckets and gray street. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-4-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: middle aged man reading newspaper beside a blue shop shutter. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Classic Neg.-inspired",
+    "file": "samples/look-5.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: red vintage car parked beside green trees. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-5.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: red vintage car parked beside green trees. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-5-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: red mailbox beside green garden hedge and white stucco wall. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-5-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: woman in red scarf waiting by dark green vintage bus. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "ETERNA-inspired",
+    "file": "samples/look-6.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: couple walking by river under overcast sky. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-6.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: couple walking by river under overcast sky. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-6-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: two friends at seaside bus stop on an overcast day. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-6-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: empty concrete courtyard with a person in white shirt under soft light. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Nostalgic Neg.-inspired",
+    "file": "samples/look-7.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: sunlit amber autumn leaves and cream house. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-7.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: sunlit amber autumn leaves and cream house. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-7-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: old wooden house with amber afternoon light and child on bicycle. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-7-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: woman at a kitchen window with amber curtains and dark foliage outside. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Velvia-inspired",
+    "file": "samples/look-8.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: mountain lake with flowers and evergreen forest. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-8.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: mountain lake with flowers and evergreen forest. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-8-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: lush alpine valley with red wildflowers and blue mountains. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-8-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: blue sea and green tropical forest with bright red fishing boat. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Portra-inspired",
+    "file": "samples/look-9.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: close portrait woman outdoors with blue background. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-9.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: close portrait woman outdoors with blue background. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-9-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: close portrait of a dark skinned woman in cream shirt in open shade. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-9-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: young man sitting beside pale blue car and pastel pink wall. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Gold-inspired",
+    "file": "samples/look-10.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: family picnic with yellow flowers. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-10.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: family picnic with yellow flowers. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-10-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: yellow vintage car on a sunny residential road. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-10-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: family at sandy beach with bright yellow parasol and blue sea. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Green Tone",
+    "file": "samples/look-11.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: lone commuter in subway with fluorescent lights. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-11.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: lone commuter in subway with fluorescent lights. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-11-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: lone man in white shirt inside tiled corridor with fluorescent lighting. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-11-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: rainy forest road with gray car and figure carrying umbrella. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Pastel Tone",
+    "file": "samples/look-12.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: pastel colored seaside architecture and bicycle. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-12.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: pastel colored seaside architecture and bicycle. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-12-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: pastel yellow cafe with pale blue chairs and soft pink flowers. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-12-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: person in light linen walking among pale mint and cream buildings. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Retro Tone",
+    "file": "samples/look-13.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: vintage diner with old radio and window light. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-13.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: vintage diner with old radio and window light. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-13-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: old seaside amusement park with faded red ferris wheel. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-13-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: woman beside vintage record player and amber lamp near window. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Black & White",
+    "file": "samples/look-14.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: black haired dancer lit from side on stage. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-14.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: black haired dancer lit from side on stage. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-14-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: dramatic portrait of elderly man with deep wrinkles and side light. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-14-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: dancer in dark costume crossing hard shaft of white stage light. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "S-Cinetone-inspired",
+    "file": "samples/look-15.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: natural close portrait man in white linen by window. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-15.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: natural close portrait man in white linen by window. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-15-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: interview portrait of woman in gray jacket beside large soft window. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-15-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: two friends in white and beige shirts in bright modern cafe. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "Fuji Green Recipe",
+    "file": "samples/look-16.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: woman beside green foliage and sunlit cream wall. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-16.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: woman beside green foliage and sunlit cream wall. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-16-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: cream colored train crossing green countryside with warm sunlight. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-16-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: woman at forest tea house with foliage shadows and white ceramic cup. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "MV Bright & Airy",
+    "file": "samples/look-17.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: young woman in bright white studio with flowers. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-17.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: young woman in bright white studio with flowers. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-17-2.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: young man in bright white greenhouse with yellow flowers. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-17-3.webp",
+        "prompt": "Use case: photorealistic-natural. Asset type: neutral BEFORE sample photograph for a color grading learning app. Create ONE landscape 3:2 realistic editorial photograph. Scene: young woman in cream clothes against blue sky and white rooftop. Natural neutral white balance, realistic skin and material colors, detailed shadows and controlled highlights. Sharp natural optics, subtle realistic texture. No film emulation, no cinematic grade, no split toning, no artificial blur, no grain overlay, no text, no watermark. Distinct believable composition.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "MV Dreamy Bloom",
+    "file": "samples/look-18.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: woman near window with strong backlight and sparkling curtains. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-18.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: woman near window with strong backlight and sparkling curtains. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-18-2.webp",
+        "prompt": "Use case: photorealistic-natural. Create one landscape 3:2 neutral editorial BEFORE photograph for color grading practice. Scene: sunlight passing through white cafe curtains onto a wooden table with white teacup. Natural neutral colors, sharp detail, realistic materials, controlled highlights. No cinematic grade, no filters, no blur, no text, no watermark.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-18-3.webp",
+        "prompt": "Use case: photorealistic-natural. Create one landscape 3:2 neutral editorial BEFORE photograph for color grading practice. Scene: backlit glass greenhouse with white flowers and small sparkling reflections. Natural neutral colors, sharp detail, realistic materials, controlled highlights. No cinematic grade, no filters, no blur, no text, no watermark.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "MV Soft Focus",
+    "file": "samples/look-19.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: portrait through translucent gauze with fairy lights behind. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-19.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: portrait through translucent gauze with fairy lights behind. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-19-2.webp",
+        "prompt": "Use case: photorealistic-natural. Create one landscape 3:2 neutral editorial BEFORE photograph for color grading practice. Scene: small warm fairy lights reflected in a rain covered cafe window, wooden furniture behind it. Natural neutral colors, sharp detail, realistic materials, controlled highlights. No cinematic grade, no filters, no blur, no text, no watermark.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-19-3.webp",
+        "prompt": "Use case: photorealistic-natural. Create one landscape 3:2 neutral editorial BEFORE photograph for color grading practice. Scene: portrait of an adult man wearing a buttoned navy jacket and white shirt beside a bright window. Natural neutral colors, sharp detail, realistic materials, controlled highlights. No cinematic grade, no filters, no blur, no text, no watermark.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  },
+  {
+    "look": "MV Pink Haze",
+    "file": "samples/look-20.jpg",
+    "generation": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: woman in pale pink dress among pink flowers. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+    "samples": [
+      {
+        "file": "samples/look-20.webp",
+        "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 editorial photographic sample for a color grading simulator. Scene: woman in pale pink dress among pink flowers. Neutral natural white balance and exposure, realistic skin, detailed shadows and recoverable bright areas. No cinematic color grade, no teal orange filter, no grain, no blur, no text or watermark. This is a neutral BEFORE image to demonstrate grading. Save the project asset locally and return its path.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-20-2.webp",
+        "prompt": "Use case: photorealistic-natural. Create one landscape 3:2 neutral editorial BEFORE photograph for color grading practice. Scene: pale pink building with lilac shutters and pink flowering tree. Natural neutral colors, sharp detail, realistic materials, controlled highlights. No cinematic grade, no filters, no blur, no text, no watermark.",
+        "generation": "Built-in image_gen"
+      },
+      {
+        "file": "samples/look-20-3.webp",
+        "prompt": "Use case: photorealistic-natural. Create one landscape 3:2 neutral editorial BEFORE photograph for color grading practice. Scene: pastel pink cafe interior with lilac chairs and white flowers. Natural neutral colors, sharp detail, realistic materials, controlled highlights. No cinematic grade, no filters, no blur, no text, no watermark.",
+        "generation": "Built-in image_gen"
+      }
+    ]
+  }
+]
